@@ -1,4 +1,4 @@
-## Cinéfilos: Sua Busca Pessoal pela Matrix
+## Cinéfilos: Sua Busca Pessoal pela Matrix - Imersão Dev com Google Gemimi.
 
 Este aplicativo web foi desenvolvido para os amantes do cinema que desejam mergulhar ainda mais no universo da Quadrilogia Matrix. Com uma interface intuitiva e resultados precisos, o Cinéfilos permite que você explore um vasto banco de dados sobre os filmes, encontrando informações detalhadas e links para aprofundar seus conhecimentos.
 
